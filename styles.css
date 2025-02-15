@@ -53,7 +53,10 @@ p {
 .btn-primary:hover {
     background-color: #cc0000;
 } */
-
+.pagebody {
+    background-color: #0C3C60; /* Direct Systems Blue */
+    color: white;
+}
 .btn-secondary {
     background-color: #0C3C60; /* Deep Blue */
     color: white;
