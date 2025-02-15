@@ -45,14 +45,14 @@ p {
 }
 
 /* Buttons */
-.btn-primary {
+/* .btn-primary {
     background-color: #FF0000;
     border: none;
 }
 
 .btn-primary:hover {
     background-color: #cc0000;
-}
+} */
 
 .btn-secondary {
     background-color: #0C3C60; /* Deep Blue */
