@@ -14,6 +14,8 @@ body {
     color: white;
     font-size: 22px;
     font-weight: bold;
+    text-align: center;
+    width: 100%;
 }
 
 /* Main Content Container */
@@ -35,7 +37,7 @@ body {
 
 /* Text Styles */
 h1, h2 {
-    color: #d9534f;
+    color: #333;
     font-size: 24px;
 }
 p {
@@ -59,6 +61,7 @@ a:hover {
     padding: 10px 20px;
     font-size: 16px;
     border-radius: 5px;
+    width: 100%;
 }
 .btn-primary:hover {
     background-color: #cc0000;
@@ -71,7 +74,7 @@ a:hover {
     padding: 10px 20px;
     font-size: 16px;
     border-radius: 5px;
-    display: block;
+    width: 100%;
     margin-top: 10px;
 }
 .btn-secondary:hover {
