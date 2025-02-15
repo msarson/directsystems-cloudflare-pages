@@ -4,7 +4,7 @@ body {
     text-align: center;
     background-color: #0C3C60; /* Direct Systems Blue */
     color: white;
-    padding: 50px;
+    padding: 20px;
 }
 
 /* Header Bar */
@@ -19,18 +19,14 @@ body {
 }
 
 /* Main Content Container */
-/* Centered Content Box - Full Width */
 .container {
-    width: 80%; /* Adjust this value as needed */
-    max-width: 900px; /* Ensures it doesn't get too wide on larger screens */
-    margin: auto;
     background: white;
-    padding: 20px;
+    padding: 30px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     color: #333; /* Dark text inside content box */
+    max-width: 700px;
 }
-
 
 /* Direct Systems Logo */
 .logo {
@@ -41,31 +37,19 @@ body {
 /* Text Styles */
 h1, h2 {
     color: #333;
-    font-size: 24px;
 }
+
 p {
     font-size: 18px;
     margin: 15px 0;
 }
 
-/* Links */
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-}
-
 /* Buttons */
-/* .btn-primary {
+.btn-primary {
     background-color: #FF0000;
     border: none;
-    padding: 10px 20px;
-    font-size: 16px;
-    border-radius: 5px;
-    width: 100%;
 }
+
 .btn-primary:hover {
     background-color: #cc0000;
 }
@@ -74,15 +58,12 @@ a:hover {
     background-color: #0C3C60; /* Deep Blue */
     color: white;
     border: none;
-    padding: 10px 20px;
-    font-size: 16px;
-    border-radius: 5px;
-    width: 100%;
     margin-top: 10px;
 }
+
 .btn-secondary:hover {
     background-color: #092d4a;
-} */
+}
 
 /* Footer */
 .footer {
